@@ -7,7 +7,7 @@ Serves 2
 
 [Watch video](https://thehappypear.ie/recipes/healthy-poke-bowl/#recipe-video)
 
-## INGREDIENTS
+# INGREDIENTS
 * 200 g cooked brown rice or quinoa
 * 70 g Tempeh/Tofu or mushrooms
 * ½ a small red chilli
@@ -23,7 +23,7 @@ Serves 2
 * Toasted Sesame seeds
 * 1 limes or ½ a lemon
 
-## INSTRUCTIONS
+# INSTRUCTIONS
 1. Method:
 2. Cook rice or quinoa according to pack instructions or simply use a precooked pack from the supermarket.
 3. Boil the kettle and pour into a bowl to cover and thaw the frozen edamame/peas.
